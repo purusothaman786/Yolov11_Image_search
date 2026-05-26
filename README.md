@@ -6,7 +6,7 @@ It is designed for dataset exploration, object detection demonstrations, and vis
 
 ## Preview
 
-### Home
+### Home 
 
 ![Home screen](docs/screenshots/app-home.png)
 
